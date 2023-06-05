@@ -1,0 +1,11 @@
+# Ignore IDE-specific files
+.idea/
+
+# Ignore compiled Python bytecode
+__pycache__/
+
+# Ignore log files
+*.log
+
+# Ignore env files
+*.env
