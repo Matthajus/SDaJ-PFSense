@@ -23,6 +23,4 @@ def parse_w3sa_json_file(json_file):
                 'addr': correct_ip_address(ip_obj['_addr'])
             })
 
-    # for item in result:
-    #     print(item)
     return result
